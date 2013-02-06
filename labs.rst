@@ -1,6 +1,18 @@
 Labs exercises
 **************
 
+Before you begin
+================
+
+Before you begin working on the lab assignments, a few tips that will help you.
+
+- Document all the things
+- Don't follow any HOWTO blindly
+- Prepare for rollbacks
+- Test every step
+- Know your log files
+- Get help when needed and share your knowledge
+
 Bare-Metal Provisioning 101
 ===========================
 
